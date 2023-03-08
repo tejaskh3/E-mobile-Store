@@ -1,14 +1,9 @@
 import React from 'react'
-// import Product from './Product.js';
-import { useState } from 'react';
+import Product from './Product.js';
 import Title from './Title.js';
-import { storeProducts } from '../data.js';
-
+import { ProductConsumer } from './context.js';
 
 export default function ProductList() {
-  const [Products, setProduct] = useState([]);
-  // setProduct(storeProducts);
-  // console.log(Products);
   return (
     <React.Fragment>
       <div className="py-5">
@@ -16,7 +11,13 @@ export default function ProductList() {
           <Title name="our" title="Products"></Title>
           {/* products row */}
           <div className="row">
-            .col
+            <ProductConsumer>
+              {(value)=>{
+                return value.products.map((product)=>{
+                  return <Product key={product.id} product={product}></Product>
+                });
+              }}
+            </ProductConsumer>
           </div>
 
 
