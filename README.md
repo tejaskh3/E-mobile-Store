@@ -1,4 +1,4 @@
-Check out the live demo: [https://tejas-phone-shope.netlify.app/](https://tejas-phone-shop.netlify.app/
+Check out the live demo: [https://tejas-phone-shop.netlify.app/](https://tejas-phone-shop.netlify.app/)
 # E-Phone-Store
 
 ![E-Mobile-Store screenshot](p2.png)
@@ -75,4 +75,4 @@ Tejas
 - Twitter: [@taashuu_](https://twitter.com/taashuu_)
 - LikedIN: [Tejas](https://www.linkedin.com/in/tejas-nil-1a2998196/)
 
-#Thankyou 
+# Thankyou 
