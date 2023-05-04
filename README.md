@@ -1,5 +1,5 @@
 Sure, here's an example README.md file for an E-phone-store created with ReactJS, Bootstrap, and Styled Components:
-
+Check out the live demo: [https://tejas-phone-shope.netlify.app/](https://tejas-phone-shope.netlify.app/)
 # E-Phone-Store
 
 ![E-Mobile-Store screenshot](p2.png)
@@ -10,7 +10,6 @@ E-Phone-Store is a responsive e-commerce website built with ReactJS, Bootstrap, 
 
 ## Demo
 
-Check out the live demo: [https://tejas-phone-shope.netlify.app/](https://tejas-phone-shope.netlify.app/)
 
 ## Installation
 
