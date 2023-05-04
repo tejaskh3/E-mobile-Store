@@ -1,4 +1,4 @@
-Check out the live demo: [https://tejas-phone-shope.netlify.app/](https://tejas-phone-shope.netlify.app/)
+Check out the live demo: [https://tejas-phone-shope.netlify.app/](https://tejas-phone-shop.netlify.app/
 # E-Phone-Store
 
 ![E-Mobile-Store screenshot](p2.png)
